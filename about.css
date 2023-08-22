@@ -1,0 +1,32 @@
+
+body{
+    background-color: lightblue;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+
+
+    
+}
+
+.header{
+    font-family: Verdana;
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+    
+}
+.paragraph{
+    font-family: verdana;
+    font-size: large;
+    color: color: #232d60;;
+    display: flex;
+}
+.avatar{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+}
